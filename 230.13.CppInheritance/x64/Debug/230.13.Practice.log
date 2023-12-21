@@ -1,0 +1,7 @@
+﻿  angle.cpp
+C:\GitHub\CS 230 Encapsulation Design\230.13.CppInheritance\angle.h(193): warning C4172: returning address of local variable or temporary: angle
+C:\GitHub\CS 230 Encapsulation Design\230.13.CppInheritance\angle.h(176): warning C4172: returning address of local variable or temporary: angle
+C:\GitHub\CS 230 Encapsulation Design\230.13.CppInheritance\angle.h(132): warning C4172: returning address of local variable or temporary: temp
+C:\GitHub\CS 230 Encapsulation Design\230.13.CppInheritance\angle.h(269): warning C4172: returning address of local variable or temporary: angle
+C:\GitHub\CS 230 Encapsulation Design\230.13.CppInheritance\angle.h(252): warning C4172: returning address of local variable or temporary: angle
+  230.13.Practice.vcxproj -> C:\GitHub\CS 230 Encapsulation Design\230.13.CppInheritance\x64\Debug\230.13.Practice.exe

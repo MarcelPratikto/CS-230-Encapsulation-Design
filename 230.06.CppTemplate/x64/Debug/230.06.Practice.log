@@ -1,0 +1,26 @@
+﻿  template.cpp
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\template.h(63,14): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\template.h(59,6): message : while compiling class template member function 'T Stack<T>::top(void)'
+          with
+          [
+              T=char
+          ]
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\testTemplate.h(326,14): message : see the first reference to 'Stack<char>::top' in 'TestStack::test_top_emptyChar'
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\testTemplate.h(274,19): message : see reference to class template instantiation 'Stack<char>' being compiled
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\template.h(63,14): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\template.h(59,6): message : while compiling class template member function 'T Stack<T>::top(void)'
+          with
+          [
+              T=int
+          ]
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\testTemplate.h(313,14): message : see the first reference to 'Stack<int>::top' in 'TestStack::test_top_emptyInteger'
+C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\testTemplate.h(182,18): message : see reference to class template instantiation 'Stack<int>' being compiled
+  230.06.Practice.vcxproj -> C:\GitHub\CS 230 Encapsulation Design\230.06.CppTemplate\x64\Debug\230.06.Practice.exe

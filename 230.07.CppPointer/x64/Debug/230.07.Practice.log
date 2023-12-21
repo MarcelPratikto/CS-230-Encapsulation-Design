@@ -1,0 +1,22 @@
+﻿  wallet.cpp
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(79,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(87,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(96,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(104,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(113,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(121,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(130,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(138,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(185,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(193,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(202,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(210,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(219,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(227,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(236,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(244,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(253,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(261,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(270,27): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\testWallet.h(278,7): warning C4312: 'type cast': conversion from 'unsigned int' to 'double *' of greater size
+  230.07.Practice.vcxproj -> C:\GitHub\CS 230 Encapsulation Design\230.07.CppPointer\x64\Debug\230.07.Practice.exe

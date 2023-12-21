@@ -1,0 +1,5 @@
+﻿  angle.cpp
+C:\GitHub\CS 230 Encapsulation Design\230.12.CppOperator\angle.h(174): warning C4172: returning address of local variable or temporary: angle
+C:\GitHub\CS 230 Encapsulation Design\230.12.CppOperator\angle.h(191): warning C4172: returning address of local variable or temporary: angle
+C:\GitHub\CS 230 Encapsulation Design\230.12.CppOperator\angle.h(130): warning C4172: returning address of local variable or temporary: temp
+  230.12.Practice.vcxproj -> C:\GitHub\CS 230 Encapsulation Design\230.12.CppOperator\x64\Debug\230.12.Practice.exe
